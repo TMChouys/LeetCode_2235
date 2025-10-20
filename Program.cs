@@ -26,6 +26,9 @@
                 int twoNumbers = 0;
                 twoNumbers = num1 + num2;
 
+                //dddefewtrw
+
+
                 //3. 輸出
                 int result = 0;
                 result = twoNumbers;
