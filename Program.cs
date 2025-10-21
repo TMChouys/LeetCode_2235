@@ -22,8 +22,37 @@
             Console.Write(Sum(a, b));  //呼叫擁有參數和傳回值的Sum函數，並帶入兩個引數a和b，將傳回值輸出到主控台
             Console.Read(); //等待使用者按下任意鍵後結束程式
 
+            //題目
+            /*
+            LeetCode 2235 Add Two Integers
+           
+            Given two integers num1 and num2, return the sum of the two integers.
+            Example 1:
+            Input: num1 = 12, num2 = 5
+            Output: 17
+            Explanation: num1 is 12, num2 is 5, and their sum is 12 + 5 = 17, so 17 is returned.
+            Example 2:
+            Input: num1 = -10, num2 = 4
+            Output: -6
+            Explanation: num1 + num2 = -6, so - 6 is returned.
+            Constraints:
+            -100 <= num1, num2 <= 100
 
-            //LeetCode 2235
+            LeetCode 2235 兩個整數相加
+
+            給定兩個整數 num1 和 num2，傳回這兩個整數的和。
+            範例 1：
+            輸入：num1 = 12, num2 = 5
+            輸出：17
+            解釋：num1 為 12，num2 為 5，它們的和為 12 + 5 = 17，因此回傳 17。
+            範例 2：
+            輸入：num1 = -10, num2 = 4
+            輸出：-6
+            解釋：num1 + num2 = -6，因此回傳 -6。
+            限制：
+            -100 <= num1，num2 <= 100
+            */
+
             //知識點：Ch7 函數，建立C#函數、函數的參數列、函數的傳回值、區域函數
             //知識點：Ch3 變數、資料型別與運算子，變數的宣告、變數的初值、指定敘述、整數資料型別
 
