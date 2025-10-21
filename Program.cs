@@ -44,7 +44,7 @@
                 result = twoNumbers;  //將twoNumbers的值指定給result變數
                 return result; //傳回result變數的值
             }
-            //結束簽名ChouYS
+            //結束簽名TMChouYS
         }
     }
 }
