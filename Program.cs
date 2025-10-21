@@ -39,6 +39,9 @@
                 int twoNumbers = 0; //宣告一個整數變數並設定初值為0來存放兩數相加的結果
                 twoNumbers = num1 + num2; //將兩個形式變數相加並將結果指定給twoNumbers變數
 
+                //dddefewtrw
+
+
                 //3. 輸出
                 int result = 0; //宣告一個整數變數並設定初值為0來存放傳回值
                 result = twoNumbers;  //將twoNumbers的值指定給result變數
